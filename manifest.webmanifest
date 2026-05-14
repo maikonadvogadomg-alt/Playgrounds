@@ -1,7 +1,7 @@
 {
-  "name": "Assistente IA Jurídico",
-  "short_name": "IA Jurídico",
-  "description": "Assistente IA Jurídico — assistente jurídico com inteligência artificial",
+  "name": "Playground",
+  "short_name": "Playground",
+  "description": "Playground — assistente jurídico com inteligência artificial",
   "lang": "pt-BR",
   "start_url": "/assistente/",
   "scope": "/assistente/",
